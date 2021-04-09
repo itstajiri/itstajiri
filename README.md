@@ -1,6 +1,6 @@
 ### Hi there / welcome to my profile
 
-### Stats 
+### 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstajiri&theme=tokyonight&hide=issues,contribs&include_all_commits=2017)](https://github.com/kadantte/github-readme-stats)
 
 <!--
