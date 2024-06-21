@@ -49,9 +49,9 @@ if (!$gachaLogPathExists) {
     $diskLetters = (Get-PSDrive).Name -match '^[a-z]$'
     foreach ($diskLetter in $diskLetters) {
         $gamePaths = @(
-            "$diskLetter`:\Wuthering Waves Game",
-            "$diskLetter`:\Wuthering Waves\Wuthering Waves Game",
-            "$diskLetter`:\Epic Games\WutheringWavesj3oFh\Wuthering Waves Game"
+            "G:\Wuthering Waves Game",
+            "G:\Wuthering Waves\Wuthering Waves Game",
+            "G:\Epic Games\WutheringWavesj3oFh\Wuthering Waves Game"
         )
     
         foreach ($gamePath in $gamePaths) {
