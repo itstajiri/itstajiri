@@ -72,9 +72,9 @@ if (!$gachaLogPathExists) {
 while (!$gachaLogPathExists) {
     Write-Host "Game install location not found or log files missing. If you think that your installation directory is correct and it's still not working, please join our Discord server for help: https://discord.gg/mADnEXwZGT. Otherwise, please enter the game install location path."
     Write-Host 'Common install locations:'
-    Write-Host '  C:\Wuthering Waves' -ForegroundColor Yellow
-    Write-Host '  C:\Wuthering Waves\Wuthering Waves Game' -ForegroundColor Yellow
-    Write-Host '  C:\Program Files\Epic Games\WutheringWavesj3oFh' -ForegroundColor Yellow
+    Write-Host '  G:\Wuthering Waves' -ForegroundColor Yellow
+    Write-Host '  G:\Wuthering Waves\Wuthering Waves Game' -ForegroundColor Yellow
+    Write-Host '  G:\Epic Games\WutheringWavesj3oFh' -ForegroundColor Yellow
     $path = Read-Host "Path"
     if ($path) {
         $gamePath = $path
