@@ -26,7 +26,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/admin.png">
-    <img alt="3x-ui" src="./media/admin.png">
+    <img alt="admin rules" src="./media/admin.png">
   </picture>
 </p>
 
@@ -34,7 +34,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/1.png">
-    <img alt="3x-ui" src="./media/1.png">
+    <img alt="1" src="./media/1.png">
   </picture>
 </p>
 
@@ -42,7 +42,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/2.png">
-    <img alt="3x-ui" src="./media/2.png">
+    <img alt="2" src="./media/2.png">
   </picture>
 </p>
 
@@ -50,7 +50,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/3.png">
-    <img alt="3x-ui" src="./media/3.png">
+    <img alt="3" src="./media/3.png">
   </picture>
 </p>
 Спустя некоторое время (~1 мин.), обновление завершиться, вам об этом скажут. Советую обновлять хотя бы раз в день, т.к. geosite/geoip обновляются раз в 6 часов.
@@ -59,7 +59,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/4.png">
-    <img alt="3x-ui" src="./media/4.png">
+    <img alt="4" src="./media/4.png">
   </picture>
 </p>
 
@@ -67,7 +67,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/autorun.png">
-    <img alt="3x-ui" src="./media/autorun.png">
+    <img alt="autorun" src="./media/autorun.png">
   </picture>
 </p>
 
@@ -75,7 +75,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/tun.png">
-    <img alt="3x-ui" src="./media/tun.png">
+    <img alt="tun mode" src="./media/tun.png">
   </picture>
 </p>
 
@@ -83,7 +83,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/tray.png">
-    <img alt="3x-ui" src="./media/tray.png">
+    <img alt="tray" src="./media/tray.png">
   </picture>
 </p>
 
@@ -94,7 +94,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/5.png">
-    <img alt="3x-ui" src="./media/5.png">
+    <img alt="5" src="./media/5.png">
   </picture>
 </p>
 
@@ -102,7 +102,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/6.png">
-    <img alt="3x-ui" src="./media/6.png">
+    <img alt="6" src="./media/6.png">
   </picture>
 </p>
 
@@ -110,7 +110,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/7.png">
-    <img alt="3x-ui" src="./media/7.png">
+    <img alt="7" src="./media/7.png">
   </picture>
 </p>
 
@@ -118,7 +118,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/8.png">
-    <img alt="3x-ui" src="./media/8.png">
+    <img alt="8" src="./media/8.png">
   </picture>
 </p>
 
