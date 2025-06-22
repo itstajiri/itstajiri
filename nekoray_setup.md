@@ -66,7 +66,7 @@
 Переводим в ТУН режим:
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./media/5.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./media/tun.png">
     <img alt="3x-ui" src="./media/tun.png">
   </picture>
 </p>
@@ -74,7 +74,7 @@
 И последний штрих. В трее задаем активный конфиг:
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./media/5.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./media/tray.png">
     <img alt="3x-ui" src="./media/tray.png">
   </picture>
 </p>
