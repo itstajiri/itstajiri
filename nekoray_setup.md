@@ -30,7 +30,7 @@
   </picture>
 </p>
 
-Запустили программу, перед вами появится следующее окно:
+Запустили программу, перед вами появится следующее окно (через **ctrl-v** добавляем ваш конфиг):
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/1.png">
